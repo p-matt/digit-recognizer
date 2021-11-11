@@ -18,7 +18,7 @@ App is partially build with Tkinter-Designer & Figma that allows to create dynam
 ## GAN
 nb. of epochs |1      | 40 | 100 | 200     
 :---: | :---: |  :---: | :---: | :---: | 
-preview |<img width= "80%" src="https://user-images.githubusercontent.com/74459226/141280647-77ccc8f5-d5f0-4da4-b1c1-0d113d89070e.png"/> | <img width= "80%" src="https://user-images.githubusercontent.com/74459226/141280654-b8e58511-4a1d-4fcb-8e9a-799e6364924b.png"/> |<img width= "80%" src="https://user-images.githubusercontent.com/74459226/141280656-11766697-8a23-401d-aa70-0afad9cb6230.png"/> | <img width= "80%" src="https://user-images.githubusercontent.com/74459226/141280661-158af143-af86-4a5c-b3d4-fcf3d104ec93.png"/>
+preview |<img width= "100%" src="https://user-images.githubusercontent.com/74459226/141280647-77ccc8f5-d5f0-4da4-b1c1-0d113d89070e.png"/> | <img width= "80%" src="https://user-images.githubusercontent.com/74459226/141280654-b8e58511-4a1d-4fcb-8e9a-799e6364924b.png"/> |<img width= "80%" src="https://user-images.githubusercontent.com/74459226/141280656-11766697-8a23-401d-aa70-0afad9cb6230.png"/> | <img width= "80%" src="https://user-images.githubusercontent.com/74459226/141280661-158af143-af86-4a5c-b3d4-fcf3d104ec93.png"/>
 
 ### Improvements
 Upgrade the model to be able to detect multi digit number. To get multi digit number data it's possible to concatenate image and update their labels like there https://github.com/thomalm/svhn-multi-digit/blob/master/03-mnist-synthetic-dataset.ipynb
