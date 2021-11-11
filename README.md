@@ -12,7 +12,7 @@ The application is used to predict single number from an image selected by the u
 
 ### The App  
 <img width="80%" src="https://user-images.githubusercontent.com/74459226/141280499-a3928264-fcc8-4b1c-8bdd-24de3ff7fee4.png"/>  
-Installing Python dependencies with pip: `pip install requirements.txt`
+Installing Python dependencies with pip: `pip install requirements.txt`  
 App is partially build with Tkinter-Designer & Figma that allows to create dynamic interface easily. (https://github.com/ParthJadhav/Tkinter-Designer)
 
 ## GAN
